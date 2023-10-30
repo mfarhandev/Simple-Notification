@@ -10,14 +10,16 @@
    minSdkVersion 21
    targetSdkVersion 34
    }
+   
    ii. Adjust the compileSdkVersion , minSdkVersion and targetSdkVersion according to the above...
+   
    iii. Check this  android:exported="true"  in AndroidManifest.xml 
 
-3. Now Initialize Awesome Notification  so move to the main.dart
+4. Now Initialize Awesome Notification  so move to the main.dart
 
-4. After that next move to the BasicNotificationScreen.dart  in the initState()
+5. After that next move to the BasicNotificationScreen.dart  in the initState()
 
-5. Then I had make a Trigger Notification  button and also a function for notification 
+6. Then I had make a Trigger Notification  button and also a function for notification 
 
      /// Finished ///
 
